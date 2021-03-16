@@ -1,9 +1,5 @@
 #include "GD25Q16.h"
-#include "main.h"
-#include "spi.h"
-#include "stdio.h"
-#include "string.h"
-#include <stdlib.h>
+
 /*每个Block为64K*/
 /*每个Sector为4k*/
 /*每个Page为256字节*/

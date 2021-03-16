@@ -2395,7 +2395,7 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-      1864        128        244          0       1032      11721   gd25q16.o
+      1864        128        244          0       1032      11703   gd25q16.o
         86          0          0          0          0       2460   gpio.o
        204          0          0          0          0       3093   main.o
        188          0          0          0        104       5821   spi.o
@@ -2416,7 +2416,7 @@ Image component sizes
        304          0          0          0        144       7161   usart.o
 
     ----------------------------------------------------------------------
-     11084        182        816         12      35084     167301   Object Totals
+     11084        182        816         12      35084     167283   Object Totals
          0          0         32          0      32768          0   (incl. Generated)
         48          0          0          0          8          0   (incl. Padding)
 
@@ -2464,8 +2464,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     12612        274        816         20      35084     167805   Grand Totals
-     12612        274        816         20      35084     167805   ELF Image Totals
+     12612        274        816         20      35084     167787   Grand Totals
+     12612        274        816         20      35084     167787   ELF Image Totals
      12612        274        816         20          0          0   ROM Totals
 
 ==============================================================================
